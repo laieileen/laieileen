@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi!
+I’m currently a freshman at Carnegie Mellon University studying Statistics and Economics. I’m curious about how math, finance, and computer science come together to solve real-world problems. I love solving problems about numbers!
+
+When I’m not studying, I spin upside down in the pool and dabble in creative projects or try new hobbies. I'm always happy to connect and learn from others interested in math, finance, or tech! Feel free to reach out: eileenlai@cmu.edu
+
 
 <!--
 **laieileen/laieileen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
